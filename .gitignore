@@ -1,0 +1,13 @@
+# Microsoft Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Linux system files
+.DS_Store
+.directory
+*~
+
+# Temporary lock files
+*.tmp
+*.laccdb
