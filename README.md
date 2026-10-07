@@ -6,4 +6,5 @@ Welcome to my repository dedicated to mastering **Excel for Data Analysis and Bu
 Excel for Data Analytics - Full Course for Beginners - <br> Luke Barousse https://www.youtube.com/watch?v=pCJ15nGFgVg&t=5274s <br>
 **Current Directories:** <br>
 📁 Daily_Practice <br>
-📁 Projects
+📁 Projects <br>
+📁 Resources /📁data_jobs_monthly
